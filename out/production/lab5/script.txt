@@ -1,4 +1,0 @@
-show
-reorder
-show
-execute_script src\script.txt
